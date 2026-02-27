@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "D.L.N",
+  "base_artist": "the GazettE",
+  "createdAt": "2026-02-27T16:52:56.302722Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "D.L.N",
+      "artist": "The GazettE",
+      "has_synced": true,
+      "path": "select/01_D.L.N_The_GazettE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "S.D.L.N.",
+      "artist": "Conway The Machine",
+      "has_synced": true,
+      "path": "select/02_S.D.L.N._Conway_The_Machine.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "D.L.N",
+      "artist": "The Gazette",
+      "has_synced": true,
+      "path": "select/03_D.L.N_The_Gazette.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "S.D.L.N.",
+      "artist": "Big Ghost Ltd",
+      "has_synced": true,
+      "path": "select/04_S.D.L.N._Big_Ghost_Ltd.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "D.L.N. (D.L.G.)",
+      "artist": "Tania Libertad",
+      "has_synced": true,
+      "path": "select/05_D.L.N._(D.L.G.)_Tania_Libertad.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "S.D.L.N.",
+      "artist": "Big Ghost Ltd.",
+      "has_synced": true,
+      "path": "select/06_S.D.L.N._Big_Ghost_Ltd..lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "S.D.L.N.",
+      "artist": "Conway the Machine & Big Ghost Ltd",
+      "has_synced": true,
+      "path": "select/07_S.D.L.N._Conway_the_Machine_&_Big_Ghost_Ltd.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "D.L.N",
+      "artist": "the GazettE",
+      "has_synced": false,
+      "path": "select/pl_01_D.L.N_the_GazettE.txt"
+    }
+  ]
+}
